@@ -15,6 +15,7 @@ Here is some documented example code:
 pkgname = "example" # Package name, make it short.
 pkgver = 1.0 # Version of the package
 pkgd = "Example program, used in Xeon docs." # Brief package descr.
+pkgdir = "/usr/share/example" # Used for removing packages.
 
 # Package build code - Actual Python 3 code
 pkgbuild = """
