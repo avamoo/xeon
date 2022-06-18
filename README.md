@@ -11,7 +11,7 @@ It will barely scratch your available space :D
 ## Free space you need
 
 For safety, atleast have **10MB** of storage.  
-But, don't you worry, **Xeon** wipes that off once it's done with it!  
+But, don't you worry, **Xeon** wipes garbage off once it's done with it!  
 
 ## Installation
 
