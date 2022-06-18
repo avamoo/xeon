@@ -2,7 +2,7 @@
 
 Yo. Wanna add a package? Well you're  
 at the **right** place! The simple command for a package is:
-`xeon -a <code-link>`.  
+`xeon add <code-link>`.  
   
 So, you may be wondering what's the code link. Well, you can put something like a Pastebin :D
 The code, is quite compilcated. It contains Python programming experience, so learn about it.
