@@ -23,5 +23,5 @@ just download it, and execute!
 If you wanna add a package to **Xeon**,  
 read **Adding.md**.  
   
-Enjoy your adventure of packaging.
+Enjoy your adventure of packaging.  
 **© avamo 2022.**
