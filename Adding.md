@@ -34,6 +34,19 @@ appexec = "/usr/bin/example" # Which file to execute when the app is clicked
 appname = "Example Program" # What the shortcut should be named as
 ```
 
+## More app customization?
+
+Yes, that's right. You can create your own .desktop file!  
+Using `customapp = True`, and your .desktop file code in:  
+  
+```
+customappc = """
+             Desktop code here
+             """
+```
+  
+you can customize your application as much as you want.
+
 ## That's it!
 
 Well, that was fast. You have made a package!
