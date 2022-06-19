@@ -1,1 +1,2 @@
 example https://pastebin.com/raw/uGt7yTgR
+foo https://pastebin.com/raw/uGt7yTgR
