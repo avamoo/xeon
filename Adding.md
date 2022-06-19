@@ -32,7 +32,7 @@ app = True # Enables application shortcut, use True | False
 appicon = "https://example.org/69Yu_dGhL-21m/icon" # App icon, use a raw icon from a website.
 appexec = "/usr/bin/example" # Which file to execute when the app is clicked
 appname = "Example Program" # What the shortcut should be named as
-appcategory = ["foo","bar"] # Which categorys should this app be in
+appcategory = ["foo","bar"] # Which categories should this app be in
 ```
 
 ## More app customization?
