@@ -15,8 +15,8 @@ But, don't you worry, **Xeon** wipes garbage off once it's done with it!
 
 ## Installation
 
-A tiny raw Python file will be in this repo,  
-just download it, and execute!
+An executable will be in releases. It will set  
+the folders up the first time you use it.
   
 ## Add a package to Xeon
 
