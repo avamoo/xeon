@@ -1,1 +1,1 @@
-example:https://pastebin.com/raw/uGt7yTgR
+example https://pastebin.com/raw/uGt7yTgR
