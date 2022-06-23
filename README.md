@@ -10,7 +10,7 @@ It will barely scratch your available space :D
 
 ## Free space you need
 
-For safety, atleast have **10MB** of storage. It's currently 8.1 KiB!   
+For safety, atleast have **10MB** of storage. It's currently 11.7 KiB!   
 But, don't you worry, **Xeon** wipes garbage off once it's done with it!  
 
 ## Installation
